@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Say hi",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "name": "Nothing ... ",
+      "isCompleted": false
+    }
+  ]
+}
